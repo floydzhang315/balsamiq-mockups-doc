@@ -1,6 +1,6 @@
-- Balsamiq Mockups 概览
-  - [Balsamiq Mockups 3 简介](introduction.md)
-  - [Balsamiq Mockups 3 版本过渡指南](transition.md)
+- 概览
+  - [简介](introduction.md)
+  - [版本过渡指南](transition.md)
   - [Mockups 应用概述](application-overview.md)
   - [使用UI控件](ui-control.md)
   - [属性检视视图](property-inspector.md)
@@ -9,7 +9,7 @@
   - [快捷键](keyboard-shortcuts.md)
 - 控件的使用
   - [使用文本控件](working-with-text.md)
-  - [使用数据网格／表格](working-with-datagrid.md)
+  - [使用数据网格/表格](working-with-datagrid.md)
   - [使用图标](working-with-icons.md)
   - [使用图像](working-with-images.md)
   - [使用标记](working-with-markup.md)
