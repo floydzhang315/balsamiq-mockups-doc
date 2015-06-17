@@ -1,40 +1,40 @@
 - 概览
-  - [简介](introduction.md)--帅猜
-  - [版本过渡指南](transition.md)
-  - [Mockups 应用概述](application-overview.md)
-  - [使用UI控件](ui-control.md)
-  - [属性检视视图](property-inspector.md)
-  - [使用Alternates分支](alternates.md)
-  - [项目信息面板](project-info-panel.md)
-  - [快捷键](keyboard-shortcuts.md)
+  - [简介](introduction.md)--黄偲琪
+  - [版本过渡指南](transition.md)--黄偲琪
+  - [Mockups 应用概述](application-overview.md)--黄偲琪
+  - [使用UI控件](ui-control.md)--黄偲琪
+  - [属性检视视图](property-inspector.md)--黄偲琪
+  - [使用Alternates分支](alternates.md)--黄偲琪
+  - [项目信息面板](project-info-panel.md)--于洋
+  - [快捷键](keyboard-shortcuts.md)--于洋
 - 控件的使用
-  - [使用文本控件](working-with-text.md)
-  - [使用数据网格/表格](working-with-datagrid.md)
-  - [使用图标](working-with-icons.md)
-  - [使用图像](working-with-images.md)
-  - [使用标记](working-with-markup.md)
-  - [使用符号](working-with-symbols.md)
-  - [使用站点地图](working-with-sitemaps.md)
+  - [使用文本控件](working-with-text.md)--于洋
+  - [使用数据网格/表格](working-with-datagrid.md)--于洋
+  - [使用图标](working-with-icons.md)--于洋
+  - [使用图像](working-with-images.md)--于洋
+  - [使用标记](working-with-markup.md)--于洋
+  - [使用符号](working-with-symbols.md)--牛子健
+  - [使用站点地图](working-with-sitemaps.md)--牛子健
 - 进阶
-  - [导出Mockups](exporting-your-mockups.md)
-  - [导入Mockups和符号](importing-mockups-symbols.md)
-  - [将Mockups链接起来](linking-mockups.md)
-  - [使用皮肤（sketch vs. wireframe）](working-with-skins.md)
-  - [全屏演示模式](full-screen-presentation.md)
-  - [Balsamiq Mockups延伸内容](extensions.md)
+  - [导出Mockups](exporting-your-mockups.md)--牛子健
+  - [导入Mockups和符号](importing-mockups-symbols.md)--牛子健
+  - [将Mockups链接起来](linking-mockups.md)--牛子健
+  - [使用皮肤（sketch vs. wireframe）](working-with-skins.md)--牛子健
+  - [全屏演示模式](full-screen-presentation.md)--牛子健
+  - [Balsamiq Mockups延伸内容](extensions.md)--于倩
 - 常见问题解答（FAQ）
-  - [Mockups是否自动保存已打开的文件？](faq-autosave.md)
-  - [Mockups是否可以将我的原型图分享给客户端？](faq-share-prototypes.md)
-  - [我能导出Mockup笔记吗？](faq-export-notes.md)
-  - [Mockups能导出为HTML/CSS/JS，XAML，Ruby等格式吗？](faq-exportto-other.md)
-  - [我可以跨项目使用符号和资源吗？](faq-across-project.md)
-  - [我可以添加自定义控件或图标吗?](faq-add-custom.md)
-  - [我可以在不同的mockups之间重用已有的元素吗？](faq-reuse.md)
-  - [Mockups有比较正式的皮肤吗？](faq-formal-skin.md)
-  - [我可以在微软Sharepoint服务器上保存Mockups文件吗？](faq-sharepoint.md)
-  - [什么是自定义属性？](faq-custom-properties.md)
-  - [我可以使用命令行安装Mockups吗？](faq-install-commandline.md)
-  - [对于某一个Mockup，最大的画布大小是多少？](faq-maxcanvas.md)
-  - [如何找到你的本地数据存储文件夹？](faq-find-folder.md)
+  - [Mockups是否自动保存已打开的文件？](faq-autosave.md)--于倩
+  - [Mockups是否可以将我的原型图分享给客户端？](faq-share-prototypes.md)--于倩
+  - [我能导出Mockup笔记吗？](faq-export-notes.md)--于倩
+  - [Mockups能导出为HTML/CSS/JS，XAML，Ruby等格式吗？](faq-exportto-other.md)--于倩
+  - [我可以跨项目使用符号和资源吗？](faq-across-project.md)--于倩
+  - [我可以添加自定义控件或图标吗?](faq-add-custom.md)--于倩
+  - [我可以在不同的mockups之间重用已有的元素吗？](faq-reuse.md)--张鸿硕
+  - [Mockups有比较正式的皮肤吗？](faq-formal-skin.md)--张鸿硕
+  - [我可以在微软Sharepoint服务器上保存Mockups文件吗？](faq-sharepoint.md)--张鸿硕
+  - [什么是自定义属性？](faq-custom-properties.md)--张鸿硕
+  - [我可以使用命令行安装Mockups吗？](faq-install-commandline.md)--张鸿硕
+  - [对于某一个Mockup，最大的画布大小是多少？](faq-maxcanvas.md)--张鸿硕
+  - [如何找到你的本地数据存储文件夹？](faq-find-folder.md)--张鸿硕
 
   
