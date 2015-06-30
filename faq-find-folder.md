@@ -20,7 +20,7 @@ C:\Documents and Settings\<username>\Application Data\BalsamiqMockups3.EDE15CF69
 - **在 Mac OS X 操作系统中：**  
 <your user home>/Library/Preferences/BalsamiqMockups3.EDE15CF69E11F7F7D45B5430C7D37CC6C3545E3C.1/Local Store
 
-**对 Mac OS X Lion 用户的提醒：** ~/Library 文件夹是默认隐藏的。想要使它再次可见，打开一个终端窗口并输入：
+  **对 Mac OS X Lion 用户的提醒：** ~/Library 文件夹是默认隐藏的。想要使它再次可见，打开一个终端窗口并输入：
 chflags nohidden ~/Library
 
 - **对 Windows Vista 和其后版本操作系统中：**
