@@ -20,8 +20,8 @@ Balsamiq Mockups 支持符号的概念。一个符号是一组只有单一功能
 
 ![image](images/symbols-group.png)
 
-2.分组你选择的组件（选择 Edit > Group，单击工具栏中的组图标，或者使用 CTRL/CMD + G）。注意控件将变成蓝色，以显示他们是一组。
-3.给组命名
+2.分组你选择的组件（选择 Edit > Group，单击工具栏中的组图标，或者使用 CTRL/CMD + G）。注意控件将变成蓝色，以显示他们是一组。  
+3.给组命名  
 4.在属性面板中单击“转换为符号”按钮
 
 ![image](images/symbols-convert.png)
