@@ -1,4 +1,4 @@
-# Mockups有比较正式的皮肤吗？
+# Mockups 有比较正式的皮肤吗？
 
 这篇网页是为了 [Balsamiq Mockups 3](https://balsamiq.com/products/mockups/) 而上传的。原来的文件您可以点击[这里](http://media.balsamiq.com/files/Balsamiq_Mockups_v1-v2_Docs.pdf)来观看。  
 
@@ -12,4 +12,4 @@
 
 ![image](http://support.balsamiq.com/customer/portal/articles/98988)
 
-想了解更多的话，点击[在这里管理皮肤](http://support.balsamiq.com/customer/portal/articles/938142)。
+想了解更多的话，点击[在这里使用皮肤](http://support.balsamiq.com/customer/portal/articles/938142)。
