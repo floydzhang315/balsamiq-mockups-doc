@@ -31,7 +31,7 @@
 -  [Doodlekit Icons](http://doodlekit.imagiag.com/)     
 -  Font Awesome 现在包含在 [Balsamiq Mockups 3!](http://support.balsamiq.com/customer/portal/articles/110202)  
 
-关于如何使用自定义图标包的说明在[这里](http://support.balsamiq.com/customer/portal/articles/110202#packs) 。  
+关于如何使用自定义图标包的说明在[这里](http://support.balsamiq.com/customer/portal/articles/110202#packs)。  
 
 ## 用户测试模型  
 
@@ -75,11 +75,11 @@
 - [**Mockups.me**](http://mockups.me/) 是一个 ipad，Android，Web 和桌面的线框应用程序，并导入或导出 BMML 文件
 - [**mockupsNode**](http://www.nimblescript.com/modules/mockupsNode/) 是一个 NodeJS 模块，可以读取，处理和写 BMML 文件
 - [**Mockups Strings Extractor**](https://github.com/balsamiq/mockups-strings-extractor) 是一个 Python 脚本，可以从 Balsamiq Mockups 文件提取文本字符串（开源代码！）
-- [**Advanced Mockup Strings Extractor**](https://github.com/akkinitsch/AdvancedMockupStringExtractor)  是一个脚本，可以提取模型到 XML，使之对翻译系统可读。
-- [**Excel Calendar Tool for Balsamiq**](http://blog.eam.mx/?p=325) 是一个 Excel 文件，让你轻松地对你指定的显示一个（或两个）指定月的日历中生成 Balsamiq Mockups 标记 。
-- [**Table Editor**](http://truben.no/latex/table/) 是一个在线工具，可以输入表格数并将其导出到 Balsamiq Mockups 的格式化文本。
-- [**ReqWriter Pro**](https://reqwriter.com/) 从 Balsamiq Mockups 文中生成一个产品需求文档。
-- [**SpeedWapp**](http://speedwapp.com/) 将 BMML 文件导入它们的动态网页生成器。
+- [**Advanced Mockup Strings Extractor**](https://github.com/akkinitsch/AdvancedMockupStringExtractor)  是一个脚本，可以提取模型到 XML，使之对翻译系统可读
+- [**Excel Calendar Tool for Balsamiq**](http://blog.eam.mx/?p=325) 是一个 Excel 文件，让你轻松地对你指定的显示一个（或两个）指定月的日历中生成 Balsamiq Mockups 标记
+- [**Table Editor**](http://truben.no/latex/table/) 是一个在线工具，可以输入表格数并将其导出到 Balsamiq Mockups 的格式化文本
+- [**ReqWriter Pro**](https://reqwriter.com/) 从 Balsamiq Mockups 文中生成一个产品需求文档
+- [**SpeedWapp**](http://speedwapp.com/) 将 BMML 文件导入它们的动态网页生成器
 
 ## 将你的模型输出到代码（第2版）
 
