@@ -1,4 +1,4 @@
-# 我可以在微软Sharepoint服务器上保存Mockups文件吗？
+# 我可以在微软 Sharepoint 服务器上保存 Mockups 文件吗？
 
 **最近已经上传完毕！** 
    
@@ -6,4 +6,6 @@
 
 如果您想要在微软 Sharepoint 服务器上保存 Mockups 文件，您需要让您的服务器管理员在 IIS 上添加下列的 mime 类型。
 
+```
 .bmpr  application/vnd.balsamiq.bmpr
+```
