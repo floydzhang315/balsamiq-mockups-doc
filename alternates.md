@@ -1,7 +1,12 @@
 # 使用Alternates分支
 
-Alternates（有时也指版本或者分支）允许你创建**一个单独 mockup 设计的副本**，而不需要在你的工程中添加新的 mockups。  
+**最近已经上传完毕！** 
+   
+这篇网页是为了 [Balsamiq Mockups 3](https://balsamiq.com/products/mockups/) 而上传的。原来的文件您可以点击[这里](http://media.balsamiq.com/files/Balsamiq_Mockups_v1-v2_Docs.pdf)来观看。
+
+Alternates（有时也指*版本*或者*分支*）允许你创建**一个单独 mockup 设计的副本**，而不需要在你的工程中添加新的 mockups。  
 在探索理念的设计初级阶段和在靠后一点添加评论家的反馈和建议的阶段，创建 alternates 是很有用的方式。  
+
 使用 alternates 的一些理由：  
 
 - 你想要每一个屏只创建一个 mockups，然而每一个却有很多想法。
@@ -45,7 +50,7 @@ Alternates（有时也指版本或者分支）允许你创建**一个单独 mock
 
 ## 编辑 Alternates
 
-在你创建 alternate 版本之后你可以像对其它 mockup 一样对它进行编辑，包括添加资源和标记。你的修改**不会影响主干分支的 mockup** (作为 Official Version 显示的)。你也可以在注释面板添加注释来描述你的想法或者用来与其它人来交流它。  
+在你创建 alternate 版本之后你可以像对其它 mockup 一样对它进行编辑，包括添加资源和标记。你的修改**不会影响主干分支的 mockup**(作为 Official Version 显示的)。你也可以在注释面板添加注释来描述你的想法或者用来与其它人来交流它。  
 
 ![alternates-testimonials.png](images/alternates-testimonials.png)
 
@@ -53,7 +58,7 @@ Alternates（有时也指版本或者分支）允许你创建**一个单独 mock
 
 ![alternates-menu-navigator.png](images/alternates-menu-navigator.png)
 
->注释：如果你[连接](http://support.balsamiq.com/customer/portal/articles/111742)到包含有 alternate 的 mockup 时，这个链接将会转到在 alternates 表中选中的 mockup 版本。  
+>注释：如果你[连接](http://support.balsamiq.com/customer/portal/articles/111742)到包含有 alternate 的 mockup 时，这个链接将会转到在 alternates 表中选中的 mockup 版本。同一个规则应用于[导出](Working with Alternates )。你 mockup 所选择的版本将导出。
 
 ## 升级 Alternates   
 
@@ -61,12 +66,11 @@ Alternates（有时也指版本或者分支）允许你创建**一个单独 mock
 
 ![alternates-promote.png](images/alternates-promote.png)
 
->注释：通过撤销指令 (CTRL/CMD+Z)，你有三次撤销该命令的机会。  
+>注释：通过撤销指令(CTRL/CMD + Z)，你有三次撤销该命令的机会。  
 
 已升级的 alternate 会被保留，以防你想要将其保存至变化历史记录中。否则的话，你可以将其[删除](http://support.balsamiq.com/customer/portal/articles/1956540-working-with-alternates#discarding)掉。  
 
 ## 合并 Alternates   
-
 
 如果你想合并官方版本的 alternate 的某些组件的话，你可以使用合并选项。  
 
@@ -92,7 +96,7 @@ Alternates（有时也指版本或者分支）允许你创建**一个单独 mock
 
 有些情况下，你可能**需要在几个 mockups 中提出一系列的 alternates 的设计来**。这种情况可能会发生在当你在看其他人的 mockups，并且想让他们看看你在整个设计中提出的设计改变的时候。  
 
-当你想要重命名一个 alternate 的时候，你可以在重命名对话框的一个选项列表中选择，列表中是已有的 alternate 的名称。这使得在几个 mockups 中使用相同的 alternate名称变得方便。  
+当你想要重命名一个 alternate 的时候，你可以在重命名对话框的一个选项列表中选择，列表中是已有的 alternate 的名称。这使得在几个 mockups 中使用相同的 alternate 名称变得方便。  
 
 ![alternates-rename-from-list.png](images/alternates-rename-from-list.png)  
 
@@ -107,18 +111,3 @@ Alternates（有时也指版本或者分支）允许你创建**一个单独 mock
 因此，例如，如果你创建了一系列叫 "Leon's Proposal" 的 alternates 并且适用上面显示的菜单栏来选中那个名字，那么任何包含有名为 "Leon's Proposal" 的 alternate 的 mockup 都会显示出那个 alrenate 版本。  
 
 没有同名 alternate 的 Mockups 是不能被更新的。改进、合并和丢弃操作暂时不允许在多个 mockups 之间跨越。  
-
-
-
-
-
-  
-
- 
-
-
-
-
-
-
-
