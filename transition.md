@@ -49,7 +49,7 @@
 怀念旧的？你可以在这里下载它们：
 
 - [Balsamiq Mockups version 2 icon set - Sketch skin](http://media.balsamiq.com/files/balsamiq_2_icons_sketch.zip)（.zip 文件，268Kb）
-- [•Balsamiq Mockups version 2 icon set - Wireframe skin](http://media.balsamiq.com/files/balsamiq_2_icons_wireframe.zip) （.zip 文件，234Kb）
+- [Balsamiq Mockups version 2 icon set - Wireframe skin](http://media.balsamiq.com/files/balsamiq_2_icons_wireframe.zip) （.zip 文件，234Kb）
 
 看[作为自定义图标添加它们的说明](http://support.balsamiq.com/customer/portal/articles/110202#packs)。
 
