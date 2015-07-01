@@ -8,7 +8,9 @@ Balsamiq Mockups 3 是近一年创建我们客户一直需求的和我们想要�
 
 在这篇文章中你将找到有关[**哪儿去下载它**](http://support.balsamiq.com/customer/portal/articles/1844131#download)，[**最新情况**](http://support.balsamiq.com/customer/portal/articles/1844131#whats-new)，当然，还有[**怎样导入已存在的文件**](http://support.balsamiq.com/customer/portal/articles/1844131#importing)。如果你刚接触 Balsamiq Mockups 或者在读完这篇文章后想要钻研得更深，你可以看以下的[文档目录](http://support.balsamiq.com/customer/portal/articles/127377)和[应用程序概述](http://support.balsamiq.com/customer/portal/articles/109151)。  
 
-这里是一个版本 3 的快速 5 分钟视频亮点介绍。  
+这里是一个版本 3 的快速 5 分钟视频亮点介绍。 
+
+[视频](https://youtu.be/-Zz8EYPhEew)
 
 ## 如何更新 
 
