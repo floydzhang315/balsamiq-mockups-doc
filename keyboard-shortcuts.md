@@ -152,7 +152,7 @@
 
 |||
 |:---------|:------------|  
-|进入全屏|<kbd>CTRL</kbd>+<kbd>F</kbd>或者<kbd>F5</kbd>|  
+|进入全屏|<kbd>CTRL</kbd> + <kbd>F</kbd>或者<kbd>F5</kbd>|  
 |退出全屏|<kbd>ESC</kbd>|  
 |编辑当前模型|<kbd>E</kbd>|  
 |隐藏/显示工具箱|<kbd>T</kbd>|  
