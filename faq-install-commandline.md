@@ -1,5 +1,4 @@
-# 我可以使用命令行安装Mockups吗？
-
+# 我可以使用命令行安装 Mockups 吗？
 
 **最近已经上传完毕！** 
    
@@ -13,13 +12,13 @@ Mockups for Desktop 可以通过以下指令被注册或注销：
 Balsamiq Mockups register organizationName serialKey
 ```
 
-用提供的一系列关键信息注册 Balsamiq Mockups
+*用提供的一系列关键信息注册 Balsamiq Mockups*
 
 ```
 Balsamiq Mockups unregister
 ```
 
-从这台电脑上注销 Mockups
+*从这台电脑上注销 Mockups*
 
 ## 额外的资源
 
