@@ -17,9 +17,9 @@
 告诉你的客户端安装 Balsamiq Mockups 并打开你要发送的文件（或几个文件）。他们可以选择全屏点击或查看编辑器中的模型。在 30 天的试用期内他们可以改变和保存这些文件。但当试用期结束，他们将无法保存编辑，不过他们仍然可以查看。  
 
 ## 共享 PNG 图片
-你可以导出你的所有 mockups 的 PNG 图像，并且你可以发送给你的客户端。[了解更多](http://support.balsamiq.com/customer/portal/articles/111730#exportimage)
+你可以导出你的所有 mockups 的 PNG 图像，并且你可以发送给你的客户端。[了解更多](http://support.balsamiq.com/customer/portal/articles/111730#exportimage)。
 
 ## 使用 myBalsamiq! 
 
 最后但并非最不重要的，你可以将你的文件上传到 myBalsamiq，我们的基于网络的应用程序提供了内置的评论，分支和模型修订历史。
-[学习更多 myBalsamiq](http://balsamiq.com/products/mockups/mybalsamiq)，也可查看[如何在 mybalsamiq 用外部客户端分享你的工作](http://support.balsamiq.com/customer/portal/articles/235574)
+[学习更多 myBalsamiq](http://balsamiq.com/products/mockups/mybalsamiq)，也可查看[如何在 mybalsamiq 用外部客户端分享你的工作](http://support.balsamiq.com/customer/portal/articles/235574)。
