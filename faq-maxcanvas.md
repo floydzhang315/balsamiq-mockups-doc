@@ -8,4 +8,4 @@
 
 如果您的线框超过 4056 像素边框出现不平整情况，您可以用断裂线来表示延续。这就是设计者对线框规格经常做的事。Mockups 在浏览器，矩形，几何形和水平尺控制中都支持断裂线。
 
-![image](http://media.balsamiq.com/img/support/docs/m4d/b3/breaklines.png)
+![image](images/breaklines.png)
