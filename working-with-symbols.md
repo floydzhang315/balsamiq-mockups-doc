@@ -34,7 +34,7 @@ Balsamiq Mockups 支持符号的概念。一个符号是一组只有单一功能
 
 ![image](images/symbols-uilibrary.png)
 
-**提示**：一旦创建了一个符号，就想起他控件一样，你也可以通过使用[快速添加](http://support.balsamiq.com/customer/portal/articles/109151#quickadd)，利用其名称的前几个字母来进行添加。
+**提示**：一旦创建了一个符号，就像其他控件一样，你也可以通过使用[快速添加](http://support.balsamiq.com/customer/portal/articles/109151#quickadd)，利用其名称的前几个字母来进行添加。
 
 ### 2.使用符号视图
 
