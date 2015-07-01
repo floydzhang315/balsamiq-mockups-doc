@@ -86,7 +86,7 @@ Alternates（有时也指*版本*或者*分支*）允许你创建**一个单独 
 
 之后，你就可以手动地编辑内容，来创建一个新的官方版本了，这个版本是各个版本里你喜欢的元素的融合。  
 
-![alternates-final.png](iamges/alternates-final.png)  
+![alternates-final.png](images/alternates-final.png)  
 
 ## 删除 Alternates   
 
