@@ -98,7 +98,7 @@
 
 - MXML/AS:尝试 [Napkee](http://www.napkee.com/)（[博客介绍](http://blogs.balsamiq.com/product/2009/08/05/napkee-launches/)）
 - MXML: 尝试 [QXmlEdit](http://lbell.wordpress.com/2010/09/24/generate-flex-code-from-balsamiq-mockup-sources/)（开源）
-- 
+
 **Images**
 
 - PNGs: 尝试[这一组命令行脚本](http://community.balsamiq.com/balsamiq/topics/shell_scripts_to_export_multiple_mockups)或[这个 Ruby 脚本](http://github.com/cory/mockup)来批量生成 mockup 的图像。
