@@ -16,7 +16,7 @@ Alternates（有时也指*版本*或者*分支*）允许你创建**一个单独 
 
 这里是一个综述:
 
-<!-- 一个视频，加载不出来 -->
+[视频](https://youtu.be/495jKWV5rEY)
 
 ##  创建 Alternates
 
