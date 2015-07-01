@@ -10,6 +10,6 @@
 
 下面的截图是一组各自的样品设计对比，分别是默认的“素描”皮肤和“线框”皮肤。点击来观看大图。
 
-![image](images/search-wireframe.png)
+![image](images/search-sketchy.png) ![image](images/search-wireframe.png)
 
 想了解更多的话，点击[在这里使用皮肤](http://support.balsamiq.com/customer/portal/articles/938142)。
