@@ -44,7 +44,7 @@
 - [用户使用 Kupima 测试你的 mybalsamiq 原型](http://blogs.balsamiq.com/product/2012/04/06/kupima/)  
 - [用户使用 UserZoom 测试你的 mybalsamiq 原型](http://blogs.balsamiq.com/product/2012/06/22/userzoom/)
 - [用链接查看器给你的 ipad 和 iPhone 样机演示](http://blogs.balsamiq.com/product/2012/10/31/linkviewer/) （也可以用 Mockups for Desktop）
-- [学习更多...](http://support.balsamiq.com/customer/portal/articles/433253)  
+- [学习更多......](http://support.balsamiq.com/customer/portal/articles/433253)  
 
 你也可以使用如下的工具来测试用任何版本的 Mockups 创建的模型：  
 
@@ -55,9 +55,9 @@
 - [**UX Apprentice**](http://uxapprentice.com/) 是一项为新的用户进行设计体验建设的资源。 
 - 在[**Balsamiq forums**](http://forums.balsamiq.com/) 论坛上的问题总是能得到迅速的且值得参考的答案，而且在这里新的功能也总是以协作和开放进行设计。[大家可以看一看！](http://forums.balsamiq.com/)       
 - [**Twitter** 爱我们](https://twitter.com/balsamiqFaves/favorites) ，我们也爱它！你可以关注 [@balsamiq](http://www.twitter.com/balsamiq) 账号来实时了解我们正在做的项目，或者你只需要简单地 [在推特搜索 “Balsamiq”](https://twitter.com/search?q=balsamiq3) 就可以看到人们对我们的看法。       
-- 成为 [**Facebook 上 Balsamiq Mockups 账号**](http://www.facebook.com/pages/Balsamiq-Mockups/29445703330)  的粉丝，这样你就可以在这里随时与 Mockups 的其他爱好者进行交流讨论！[了解更多...](http://www.facebook.com/pages/Balsamiq-Mockups/29445703330)
-- [**我们为赞助行为感到骄傲**](http://www.balsamiq.com/company/sponsorships) 我们赞助了最好的项目，博客和相关网站的 IA 和 UX，以及初创公司。这就是我们帮助我们社区发展的方法。[了解更多...](http://www.balsamiq.com/company/sponsorships)
-- [针对于 UX Training 的免费 myBalsamiq](http://support.balsamiq.com/customer/portal/articles/105924#uxtraining) 。如果你是一个产品可用性的研究者，你可能会对我们的免费 mybalsamiq UX 培训感兴趣。[了解更多...](http://support.balsamiq.com/customer/portal/articles/105924#uxtraining)  
+- 成为 [**Facebook 上 Balsamiq Mockups 账号**](http://www.facebook.com/pages/Balsamiq-Mockups/29445703330)  的粉丝，这样你就可以在这里随时与 Mockups 的其他爱好者进行交流讨论！[了解更多......](http://www.facebook.com/pages/Balsamiq-Mockups/29445703330)
+- [**我们为赞助行为感到骄傲**](http://www.balsamiq.com/company/sponsorships) 我们赞助了最好的项目，博客和相关网站的 IA 和 UX，以及初创公司。这就是我们帮助我们社区发展的方法。[了解更多......](http://www.balsamiq.com/company/sponsorships)
+- [**针对于 UX Training 的免费 myBalsamiq**](http://support.balsamiq.com/customer/portal/articles/105924#uxtraining)。如果你是一个产品可用性的研究者，你可能会对我们的免费 mybalsamiq UX 培训感兴趣。[了解更多......](http://support.balsamiq.com/customer/portal/articles/105924#uxtraining)  
 
 ## 其他可与 Mockups 协作的产品（第2版） 
 
