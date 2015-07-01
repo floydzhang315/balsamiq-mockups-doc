@@ -6,10 +6,10 @@
 
 如果您想更换皮肤，您可以到[项目信息面板](http://support.balsamiq.com/customer/portal/articles/1895403)来把皮肤设置成“线框”。
 
-![image](http://media.balsamiq.com/img/support/docs/m4d/b3/skin-switcher.png)
+![image](images/skin-switcher.png)
 
 下面的截图是一组各自的样品设计对比，分别是默认的“素描”皮肤和“线框”皮肤。点击来观看大图。
 
-![image](http://support.balsamiq.com/customer/portal/articles/98988)
+![image](images/search-wireframe.png)
 
 想了解更多的话，点击[在这里使用皮肤](http://support.balsamiq.com/customer/portal/articles/938142)。
