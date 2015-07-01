@@ -8,11 +8,11 @@
 
 您可以在您的模型上右键单击任何控制键并且在右键菜单上选择 "Custom Properties..."。
 
-![image](http://media.balsamiq.com/img/support/docs/m4d/b3/custompropertiesmenu.png)
+![image](images/custompropertiesmenu.png)
 
 这会打开一个如下的对话框。
 
-![image](http://media.balsamiq.com/img/support/docs/m4d/b3/custompropertiesdialog.png)
+![image](images/custompropertiesdialog.png)
 
 在这个对话框中您可以为已经选择好的控制键添加自定义 ID 和与它对应的自定义数据。Balsamiq Mockups 不会使用这些属性，但是这些属性会随着剩余的模型被保存在工程中。
 
