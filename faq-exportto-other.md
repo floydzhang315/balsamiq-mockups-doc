@@ -1,4 +1,4 @@
-# Mockups 能导出为 HTML/CSS/JS，XAML，Ruby 等格式吗？
+# Mockups 能导出为 HTML/CSS/JS，XAML，Ruby等格式吗？
 
 **最近更新！**
 

@@ -4,14 +4,12 @@
    
 这篇网页是为了 [Balsamiq Mockups 3](https://balsamiq.com/products/mockups/) 而上传的。原来的文件您可以点击[这里](http://media.balsamiq.com/files/Balsamiq_Mockups_v1-v2_Docs.pdf)来观看。
 
-## 从先前版本中（ BMML 文件）导入 mockups
+## 从先前版本中（BMML 文件）导入 mockups
 
 Balsamiq Mockups 3 会从先前的版本中使用不同文件格式（[在这里可以了解更多](http://support.balsamiq.com/customer/portal/articles/1844131#projects)）。你可以用以下三种方式之一导入你的老版本 mockups：
 
-1.单个BMML文件     
-
-2.一个包含 assets 子文件夹中的图片 BMML 文件和符号的文件夹    
- 
+1.单个BMML文件  
+2.一个包含 assets 子文件夹中的图片 BMML 文件和符号的文件夹  
 3.一个包含 assets 子文件夹中的图片 BMML 文件和符号的 ZIP 文件
 
 可以通过打开Project > Import 菜单，将有的项目文件夹或是 ZIP 文件转换为 BMPR 文件。
