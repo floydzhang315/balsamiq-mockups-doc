@@ -1,6 +1,6 @@
 # 版本过渡指南
 
-感谢尝试我们的最新的 Balsamiq Mockups 版本！我们认为你将真正喜欢上所有的提升并且觉得它使用起来非常简单。为了学到更多的有关新的特征你可以读一读 [Balsamiq Mockups 3 简介](http://support.balsamiq.com/customer/portal/articles/1844131)或者钻研我们的[完全文档](http://support.balsamiq.com/customer/portal/articles/127377)。
+感谢试用我们最新的 Balsamiq Mockups 版本！我们认为你将真正喜欢上所有的提升并且觉得它使用起来非常简单。为了学到更多的有关新的特征你可以读一读 [Balsamiq Mockups 3 简介](http://support.balsamiq.com/customer/portal/articles/1844131)或者钻研我们的[完全文档](http://support.balsamiq.com/customer/portal/articles/127377)。
 
 这篇文章想要回答一些你可能会有的从前一个版本转换到当前的 Balsamiq Mockups 3 的问题。
 

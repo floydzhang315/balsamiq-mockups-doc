@@ -4,7 +4,7 @@
    
 这篇网页是为了 [Balsamiq Mockups 3](https://balsamiq.com/products/mockups/) 而上传的。原来的文件您可以点击[这里](http://media.balsamiq.com/files/Balsamiq_Mockups_v1-v2_Docs.pdf)来观看。
 
-有多种方式可以向你的 mockups 中添加图像。最简单的方法只需要拖拽一个图片文件从你的电脑到你的 Mockups 画布上。来阅读一些更多在你的工程中添加并使用图像的方法吧。  
+有多种方式可以向你的 Mockups 中添加图像。最简单的方法只需要拖拽一个图片文件从你的电脑到你的 Mockups 画布上。来阅读一些更多在你的工程中添加并使用图像的方法吧。  
 
 ## 在 Mockups 视图中添加图像
 
@@ -23,7 +23,7 @@
 - 单击**方框中有一个 "x" 的图标**将会还原你的图像成为一个默认的占位符图像。
 - **素描！复选框**将转换你的图像成为一个仅使用黑白线条描绘的版本。
 
-如果你还没有准备好一个图像文件或者你想使用一个占位符图像来保证你的 mockup 低保真度，你可以从 [UI 库](http://support.balsamiq.com/customer/portal/articles/109151#uilibrary)中添加一个图像控制，然后它就会显示一个方框里面有一个 "x"。你可以稍后再使用上面提到的图像属性来用一张图像代替它。  
+如果你还没有准备好一个图像文件或者你想使用一个占位符图像来保证你的 Mockup 低保真度，你可以从 [UI 库](http://support.balsamiq.com/customer/portal/articles/109151#uilibrary)中添加一个图像控制，然后它就会显示一个方框里面有一个 "x"。你可以稍后再使用上面提到的图像属性来用一张图像代替它。  
 
 ![image-default.png](images/image-default.png)
 
@@ -31,7 +31,7 @@
 
 ![assets-uilibrary.png](images/assets-uilibrary.png)
 
-这也意味着你可以从 [Quick Add](http://support.balsamiq.com/customer/portal/articles/109151#quickadd) 中给你的 mockups 添加图片。只需要输入图像名的前几个字母它就会出现在列表之中。  
+这也意味着你可以从 [Quick Add](http://support.balsamiq.com/customer/portal/articles/109151#quickadd) 中给你的 Mockups 添加图片。只需要输入图像名的前几个字母它就会出现在列表之中。  
 
 >注释：你可以通过在 UI 库中在图像上单击右键并选择 "Move Image to Trash" 或者从[Assets 视图的上下文菜单](http://support.balsamiq.com/customer/portal/articles/110401-working-with-images#managing)中删除图像。
 
@@ -69,11 +69,11 @@ assets 视图显示所有已经添加到项目中的图像和[常用图标](http
 
 ### 重命名图像
 
-在上下文菜单中使用重命名图像会改变你的项目中资源的名字。这不会影响到你的本地文件，因为图像是添加到项目中的一个副本。重命名图像会在你的 mockups 中更新，所以并不需要手动的更新它们。  
+在上下文菜单中使用重命名图像会改变你的项目中资源的名字。这不会影响到你的本地文件，因为图像是添加到项目中的一个副本。重命名图像会在你的 Mockups 中更新，所以并不需要手动的更新它们。  
 
 ### 删除图像
 
-你同样可以使用上下文菜单来从项目中删除图像。正如你的 mockups,删除将会把图像移至[回收站](http://support.balsamiq.com/customer/portal/articles/1844131#trash)，从那里你可以永久地删除或者是还原它们。值得注意的是从 mockups 画布上删除它们并不意味着从工程中删除它们。  
+你同样可以使用上下文菜单来从项目中删除图像。正如你的 Mockups,删除将会把图像移至[回收站](http://support.balsamiq.com/customer/portal/articles/1844131#trash)，从那里你可以永久地删除或者是还原它们。值得注意的是从 Mockups 画布上删除它们并不意味着从工程中删除它们。  
 
 ### 将图像从工程保存到本地
 

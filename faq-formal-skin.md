@@ -8,7 +8,7 @@
 
 ![image](images/skin-switcher.png)
 
-下面的截图是一组各自的样品设计对比，分别是默认的“素描”皮肤和“线框”皮肤。点击来观看大图。
+下面的截图是一组各自的样品设计对比，分别是默认的“素描”皮肤和“线框”皮肤。
 
 ![image](images/search-sketchy.png) ![image](images/search-wireframe.png)
 

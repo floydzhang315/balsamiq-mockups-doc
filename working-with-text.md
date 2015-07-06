@@ -4,7 +4,8 @@
    
 这篇网页是为了 [Balsamiq Mockups 3](https://balsamiq.com/products/mockups/) 而上传的。原来的文件您可以点击[这里](http://media.balsamiq.com/files/Balsamiq_Mockups_v1-v2_Docs.pdf)来观看。
 
-许多 Mockups UI 控件，像按钮、标签或者数据网格，里面都包含文本。双击控件并输入内容来修改文本。或者，如果你选中了控件，只需按一下回车或者 F2 就可以开始编辑了。单击除了你输入内容的文本框之外的任何一个地方或者按回车或 CTRL + 回车都可以保存编辑。如果你想要放弃对文字的更改，按 Esc 键即可。  
+许多 Mockups UI 控件，像按钮、标签或者数据网格，里面都包含文本。双击控件并输入内容来修改文本。或者，如果你选中了控件，只需按一下回车或者 F2 就可以开始编辑了。单击除了你输入内容的文本框之外的任何一个地方或者按回车或 CTRL + 回车都可以保存编辑。如果你想要放弃对文字的更改，按 Esc 键即可。   
+  
 有些控件使用某一字符作为分隔符。例如，在标签栏创建多个标签，你可以用逗号分隔它们。  
 
 ![FirstMockup-tabs_edit.png](images/FirstMockup-tabs_edit.png)  
@@ -32,15 +33,17 @@
 
 >注释：  
 
->1. 上面的 #FF0000 是 HEX 格式的颜色，与 HTML 中一样。宏可以有 # 号，也可以没有。你也可以使用确切的颜色名（例如 green , yellow 等），你可以移动鼠标到 Property Inspector 上的调色板来找到它们的名字。  
->2. 看[下一个小节](http://support.balsamiq.com/customer/portal/articles/110121-working-with-text#linking)来了解如何将[链接文本]转变成具有跳转至网站或者其它 mockups 的功能。  
+>1. 上面的 #FF0000 是 HEX 格式的颜色，与 HTML 中一样。宏可以有 # 号，也可以没有。你也可以使用确切的颜色名（例如 green , yellow 等），你可以移动鼠标到 Property Inspector 上的调色板来找到它们的名字。     
+>
+>2. 看[下一个小节](http://support.balsamiq.com/customer/portal/articles/110121-working-with-text#linking)来了解如何将[链接文本]转变成具有跳转至网站或者其它 Mockups 的功能。    
+> 
 >3. 这些格式化语法同样作用于输入到[注释面板](http://support.balsamiq.com/customer/portal/articles/110114#notes)上的文本，除了斜体和删除线。
 
 这有一个截图显示了上述文本在 Paragraph 控件中的样子，例如：
 
 ![italiclinksbold.png](images/italiclinksbold.png)
 
-快捷方式几乎在任何更直观的地方都能见到，你可以组合使用上述语法，就出现了斜体加下划线的字，[_this_] 或者 _[this]_。  
+快捷方式几乎在任何更直观的地方都能见到，你可以组合使用上述语法，就出现了斜体加下划线的字，[_this_] 或者 `_[this]_` 。  
 
 一些控件像 Paragraph 或 Label 允许你经过属性检视视图选择不加粗。如果你那么做了，那么\*加粗字\*还会保持加粗。一些控件默认使用加粗字体，所以在那些控件中使用加粗字体不会用任何变化。  
 
@@ -67,7 +70,7 @@
 
 如果你使用了上述的链接符号（比如，[这是一个链接]），你可以通过 [markdown 语法](http://daringfireball.net/projects/markdown/syntax)使链接格式文本成为一个真正的链接。 
 
-**将链接地址放在括号里写在链接文本的后面**就可以实现功能了。链接地址可以是 URL，也可以是在相同目录下另一个 mockup 的名字。下面的这些形式都是有效的。  
+**将链接地址放在括号里写在链接文本的后面**就可以实现功能了。链接地址可以是 URL，也可以是在相同目录下另一个 Mockup 的名字。下面的这些形式都是有效的。  
 
 网站地址：  
 
@@ -109,4 +112,4 @@
 
 ### {mockup-name}
 
-在 Label, Text, Title 或者 Subtitle 控件中输入 {mockup-name} (所有小写字母) 会显示当前 mockup 的名字。
+在 Label, Text, Title 或者 Subtitle 控件中输入 {mockup-name} (所有小写字母) 会显示当前 Mockup 的名字。
