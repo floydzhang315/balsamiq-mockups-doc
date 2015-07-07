@@ -1,10 +1,10 @@
 # Balsamiq Mockups 3 简介
 
-Balsamiq Mockups 3 是近一年来自上而下编程的结果，它创造了一个客户一直需求的和我们一直想要的产品。  
+Balsamiq Mockups 3 是我们将近一年的埋头编码创造出来的产品，这个产品不仅是我们的客户一直提出要求希望我们做的，也是我们自己一直想要做的。  
 
-最显著的改变是人们自一开始就一直要求的两个“要点”：项目支持（打包文件，多窗口）和去除“浮动属性页面”（属性检视视图）。
+最显著的改变是人们从一开始就一直提出需求的两个“要点”：项目支持（打包文件，多窗口）和去除 “浮动属性页面”（属性检视视图）。
 
-但是后台完成的工作也是同样重要的，它使得产品变得更快而且更聪明，并且更好地调整了我们所希望使用它的每一部分体验。  
+但正如同我们通过后台的实现让软件运行的更快更智能并且通过不断的改进用户体验的每个部分一样重要的是，我们希望能够更好的使用 Mockups。 
 
 在这篇文章中你将找到有关[**哪儿去下载它**](http://support.balsamiq.com/customer/portal/articles/1844131#download)，[**最新情况**](http://support.balsamiq.com/customer/portal/articles/1844131#whats-new)的信息，当然，还有[**怎样导入已存在的文件**](http://support.balsamiq.com/customer/portal/articles/1844131#importing)。如果你刚接触 Balsamiq Mockups 或者在读完这篇文章后想要更深地钻研下去，你可以看以下的[文档目录](http://support.balsamiq.com/customer/portal/articles/127377)和[应用程序概述](http://support.balsamiq.com/customer/portal/articles/109151)。  
 
@@ -14,7 +14,7 @@ Balsamiq Mockups 3 是近一年来自上而下编程的结果，它创造了一�
 
 ## 如何更新 
 
-Balsamiq Mockups 3 现在是我们桌面产品的现行版本，可以在我们的[下载页](https://balsamiq.com/download/)上获得。它对于现有的用户来说是可以免费更新的，你甚至将不需要重新注册。  
+Balsamiq Mockups 3 现在是我们桌面产品的现行版本，可以在我们的[下载页](https://balsamiq.com/download/)上获得。它对于现有的用户来说是可以免费更新的，你甚至不需要重新注册。  
 
 Balsamiq Mockups 3 将和 Balsamiq Mockups 2（作为独立的应用程序）并行运行，所以你不需要卸载你现在的版本来使用它。看以下的[如何导入存在的文件](http://support.balsamiq.com/customer/portal/articles/1844131#importing)。  
 
@@ -47,7 +47,7 @@ Balsamiq Mockups 3 将和 Balsamiq Mockups 2（作为独立的应用程序）并
 
 ### 自动保存  
 
-你的项目被自动保存了。不需要手动保存。当你重启实物模型时，所有东西将处在你之前停止的状态。  
+你的项目被自动保存了。不需要手动保存。当你重启实物模型时，所有在你离开时候的东西都会完好无损。  
 
 ### 一个新的用户接口  
 
@@ -59,7 +59,7 @@ Balsamiq Mockups 3 将和 Balsamiq Mockups 2（作为独立的应用程序）并
 
 ![image](images/toolbar2.png)
 
-当然，你可以使用面板的图标隐藏所有的面板，使你进入禅宗似的线框天堂。  
+当然，你可以使用面板的图标隐藏所有的面板，使你进入美妙的线框天堂。  
 
 ![image](images/nopanels.png) 
 
@@ -76,7 +76,7 @@ Balsamiq Mockups 3 将和 Balsamiq Mockups 2（作为独立的应用程序）并
 
 ### 更简单的外观和感觉定制
 
-在 Mockup 中所使用的字体控制自从开始以来已经成为最需要的功能之一。之前自定义字体是可以使用一个复杂的配置文件来得到的，但我们现在允许你在新的[项目信息面板](http://support.balsamiq.com/customer/portal/articles/1895403)中设置项目字体。是的，你现在可以简单地使用任何你已经在你的 mockups 中安装的字体。你也能为它设置一个默认的大小。
+在 Mockup 中所使用的字体控制自从开始以来已经成为最需要的功能之一。之前自定义字体是使用一个复杂的配置文件来得到的，但我们现在允许你在新的[项目信息面板](http://support.balsamiq.com/customer/portal/articles/1895403)中设置项目字体。是的，你现在可以简单地使用任何你已经在你的 mockups 中安装的字体。你也能为它设置一个默认的大小。
 
 ![image](images/project-info.png) 
 

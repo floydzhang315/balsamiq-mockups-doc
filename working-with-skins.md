@@ -31,9 +31,3 @@ wireframe 皮肤风格让你的设计看上去感觉已经完成，而 sketch �
 因此，虽然你*可以*在设计过程中的任何阶段使用 wireframe 皮肤风格，但是我们不推荐用它代替 sketch 皮肤，而是将它作为 sketch 的一个后续。它扩展了 Mockups 的功能，使他更适合在产品开发过程中的演示或是推销，而不是构思和设计阶段。
 
 在一开始，Balsamiq Mockups 就被优化成为产品设计阶段的[新颖点](http://balsamiq.com/products/mockups/#sweet)，并且在未来会继续如此。我们[仍然](http://blogs.balsamiq.com/ux/2011/06/17/why-we-arent-doing-interaction/)没有任何计划去为我们的产品添加花哨的交互行为，我们非常满意我们现在做的事。
-
-
-
-
-
-

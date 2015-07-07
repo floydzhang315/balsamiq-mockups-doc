@@ -1,7 +1,7 @@
 # 使用 UI 视图
 
 **最新更新！**  
-这个页面已经被更新为[Balsamiq Mockups 3](https://balsamiq.com/products/mockups/)。旧文档在[这里](http://media.balsamiq.com/files/Balsamiq_Mockups_v1-v2_Docs.pdf)。
+这个页面已经被更新为 [Balsamiq Mockups 3](https://balsamiq.com/products/mockups/)。旧文档在[这里](http://media.balsamiq.com/files/Balsamiq_Mockups_v1-v2_Docs.pdf)。
 
 ## 添加 UI 控件
 

@@ -5,7 +5,7 @@
 这篇网页是为了 [Balsamiq Mockups 3](https://balsamiq.com/products/mockups/) 而上传的。原来的文件您可以点击[这里](http://media.balsamiq.com/files/Balsamiq_Mockups_v1-v2_Docs.pdf)来观看。
 
 Alternates（有时也指*版本*或者*分支*）允许你创建**一个单独 mockup 设计的副本**，而不需要在你的工程中添加新的 mockups。  
-在探索理念的设计初级阶段和在靠后一点添加评论家的反馈和建议的阶段，创建 alternates 是很有用的方式。  
+在探索理念的设计初级阶段和在靠后一点添加评论的反馈和建议的阶段，创建 alternates 是很有用的方式。  
 
 使用 alternates 的一些理由：  
 
@@ -36,7 +36,7 @@ Alternates（有时也指*版本*或者*分支*）允许你创建**一个单独 
 
 ![alternates-default.png](images/alternates-default.png)
 
-**alternate 版本的下拉列表中会提示你当前你所工作在 mockup 的哪一个版本**。你可以创建任何个 alternates。  
+**alternate 版本的下拉列表中会提示你当前你所工作在 mockup 的哪一个版本**。你可以创建任意个 alternates。  
 
 >注释：你可以为一个 alternate 创建 alternate。当一个 alternate 被选中是点击 "+" 图标会创建一个选中版本的 alternate 而非正式版本。  
 
@@ -84,7 +84,7 @@ Alternates（有时也指*版本*或者*分支*）允许你创建**一个单独 
 
 ![alternates-post-merge2.png](images/alternates-post-merge2.png)  
 
-之后，你就可以手动地编辑内容，来创建一个新的官方版本了，这个版本是各个版本里你喜欢的元素的融合。  
+之后，你就可以手动编辑内容，来创建一个新的官方版本了，这个版本是各个版本里你喜欢的元素的融合。  
 
 ![alternates-final.png](images/alternates-final.png)  
 

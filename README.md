@@ -14,4 +14,4 @@ Balsamiq Mockups 是美国加利福利亚的 Balsamiq 工作室（ 2008 年 3 �
 
 在你阅读教程之前，我们假设你已经具备了基本的原型设计的相关知识。
 
-Balsamiq Mockups 官方网站：[https://balsamiq.com/products/mockups/](https://balsamiq.com/products/mockups/)
+>Balsamiq Mockups 官方网站：[https://balsamiq.com/products/mockups/](https://balsamiq.com/products/mockups/)

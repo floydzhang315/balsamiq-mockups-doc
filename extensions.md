@@ -53,7 +53,7 @@
 ## 更多的社区！
 
 - [**UX Apprentice**](http://uxapprentice.com/) 是一项为新的用户进行设计体验建设的资源。 
-- 在[**Balsamiq forums**](http://forums.balsamiq.com/) 论坛上的问题总是能得到迅速的且值得参考的答案，而且在这里新的功能也总是以协作和开放进行设计。[大家可以看一看！](http://forums.balsamiq.com/)       
+- 在 [**Balsamiq forums**](http://forums.balsamiq.com/) 论坛上的问题总是能得到迅速的且值得参考的答案，而且在这里新的功能也总是以协作和开放进行设计。[大家可以看一看！](http://forums.balsamiq.com/)       
 - [**Twitter** 爱我们](https://twitter.com/balsamiqFaves/favorites) ，我们也爱它！你可以关注 [@balsamiq](http://www.twitter.com/balsamiq) 账号来实时了解我们正在做的项目，或者你只需要简单地 [在推特搜索 “Balsamiq”](https://twitter.com/search?q=balsamiq3) 就可以看到人们对我们的看法。       
 - 成为 [**Facebook 上 Balsamiq Mockups 账号**](http://www.facebook.com/pages/Balsamiq-Mockups/29445703330)  的粉丝，这样你就可以在这里随时与 Mockups 的其他爱好者进行交流讨论！[了解更多......](http://www.facebook.com/pages/Balsamiq-Mockups/29445703330)
 - [**我们为赞助行为感到骄傲**](http://www.balsamiq.com/company/sponsorships) 我们赞助了最好的项目，博客和相关网站的 IA 和 UX，以及初创公司。这就是我们帮助我们社区发展的方法。[了解更多......](http://www.balsamiq.com/company/sponsorships)
@@ -109,7 +109,7 @@
 - 一个使用 MS Word 的活应用 ：尝试 [SoftwareServant](http://www.softwareservant.net/)（[博客介绍](http://blogs.balsamiq.com/product/2011/03/02/softwareservant/) ）
 - XAML：了解 [MockupToXaml](http://mockuptoxaml.codeplex.com/) 项目（开源）
 
-想要在一个无头服务器上通过[命令行](http://support.balsamiq.com/customer/portal/articles/111762)运行 Mockups？创造[这些源文件脚本](https://github.com/inorton/Balsamiq-Scripts)的 Ian Norton 将可以提供帮助。
+想要在一个服务器上通过[命令行](http://support.balsamiq.com/customer/portal/articles/111762)运行 Mockups？创造[这些源文件脚本](https://github.com/inorton/Balsamiq-Scripts)的 Ian Norton 将可以提供帮助。
 
 ## 加入我们！
 
